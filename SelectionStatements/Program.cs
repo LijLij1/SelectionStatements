@@ -6,32 +6,32 @@ namespace SelectionStatementExercise
     {
         static void Main(string[] args)
         {
-            //var r = new random();
-            //var favnumber = r.next(1, 1000);
+            //var r = new Random();
+            //var favnumber = r.Next(1, 1000);
             //int userinput;
             //var counter = 0;
 
             //do
             //{
-            //console.writeline("pick a number 1 to 1000.");
-            //userinput = int.parse(console.readline());
+            //    Console.WriteLine("pick a number 1 to 1000.");
+            //    userinput = int.Parse(Console.ReadLine());
 
-            //if (userinput < favnumber)
-            //{
-            //console.writeline("to low!");
-            //}
-            // else if (userinput > favnumber)
-            // {
-            //      console.writeline("to high!");
-            // }
-            // else
-            // {
-            //Console.WriteLine("good job you got it!");
-            // }
+            //    if (userinput < favnumber)
+            //    {
+            //        Console.WriteLine("to low!");
+            //    }
+            //    else if (userinput > favnumber)
+            //    {
+            //        Console.WriteLine("to high!");
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine("good job you got it!");
+            //    }
 
-            // counter++;
-            // console.writeline($"you have tried {counter} times!");
-            //  } while (userinput != favnumber);
+            //    counter++;
+            //    Console.WriteLine($"you have tried {counter} times!");
+            //} while (userinput != favnumber);
 
             Console.WriteLine("What is your favorite subject?");
 

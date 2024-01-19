@@ -12,3 +12,4 @@ C:\Users\ooffs\repos\SelectionStatements\SelectionStatements\obj\Debug\net8.0\re
 C:\Users\ooffs\repos\SelectionStatements\SelectionStatements\obj\Debug\net8.0\SelectionStatements.pdb
 C:\Users\ooffs\repos\SelectionStatements\SelectionStatements\obj\Debug\net8.0\SelectionStatements.genruntimeconfig.cache
 C:\Users\ooffs\repos\SelectionStatements\SelectionStatements\obj\Debug\net8.0\ref\SelectionStatements.dll
+C:\Users\ooffs\repos\SelectionStatements\SelectionStatements\obj\Debug\net8.0\SelectionStatements.sourcelink.json
